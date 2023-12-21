@@ -2,6 +2,7 @@
 
 ## Introduction
 MotionMap is a dynamic web application designed for fitness enthusiasts to log and track their running and cycling workouts. With geolocation services and interactive mapping provided by Leaflet, Mapty offers users the convenience of visualizing their cardio workouts on a map. Whether you're running downtown or cycling in the mountains, Mapty keeps your fitness journey at your fingertips.
+[Live Project](https://motionmap-sapa.netlify.app/)
 
 ## Features
 - Expertly Crafted with ES6 Classes: Showcasing expertise in Object-Oriented Programming, Mapty is built using ES6 classes, making the codebase scalable and maintainable.
